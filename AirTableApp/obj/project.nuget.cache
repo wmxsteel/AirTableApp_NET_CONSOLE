@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BMdK8suIr/EJoZtQ9JKD19AYEku2h5UveE0J9h2j5HuYPnvMvbtBzJayZSHESweWsgAAMGAvlXErTZaCYIooQg==",
+  "success": true,
+  "projectFilePath": "D:\\MauiApp\\AirTableApp\\AirTableApp\\AirTableApp\\AirTableApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\airtable\\1.2.0\\airtable.1.2.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.text.json\\6.0.5\\system.text.json.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
